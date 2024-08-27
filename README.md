@@ -4,6 +4,7 @@
 ## Built with technologies such as :
 * React and Vite
 * Tailwind CSS
+* Catppuccin palatte (https://catppuccin.com/)
 * Daisy UI
 * For icons - Fontawesome and Devicons
 * For mailing - EmailJS
