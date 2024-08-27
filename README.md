@@ -6,6 +6,7 @@
 * Tailwind CSS
 * Daisy UI
 * For icons - Fontawesome and Devicons
+* For mailing - EmailJS
 ## This portfolio deployed here :
 Click here ->  [Check my portfolio](https://funny-gelato-de7e4a.netlify.app/)
 
