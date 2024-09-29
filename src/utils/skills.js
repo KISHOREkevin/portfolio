@@ -64,6 +64,11 @@ const backendTools = [
         skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     },
     {
+	id:uuidv4(),
+	skillname:"Redis",
+	skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+    },
+    {
         id:uuidv4(),
         skillname:"Docker",
         skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
