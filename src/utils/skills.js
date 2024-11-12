@@ -87,6 +87,11 @@ const backendTools = [
         id:uuidv4(),
         skillname:"Amazon web service",
         skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    },
+    {
+        id:uuidv4(),
+        skillname:"Django",
+        skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
     }
 ]
 
