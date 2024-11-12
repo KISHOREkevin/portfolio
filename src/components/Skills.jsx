@@ -58,7 +58,7 @@ const Skills = () => {
               <button className='btn btn-ghost text-ctp-yellow' type="button" onClick={() => setTabchoice(4)}>Languages</button>
               </ul>
             </details>
-            <div className='p-10 m-3 lg:w-[800px] lg:h-80 h-[800px] bg-ctp-surface0  rounded-md shadow-md'>
+            <div className='p-10 m-3 lg:w-[800px] lg:h-80  bg-ctp-surface0  rounded-md shadow-md'>
               <div className=' flex flex-wrap ' >
                 {backendTools.map((skill) => {
                   return (
