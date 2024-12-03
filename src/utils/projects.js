@@ -2,6 +2,12 @@ import {v4 as uuidv4} from "uuid";
 const bigProjects= [
     {
         id:uuidv4(),
+        projectname:"Audio Transcription with AI",
+        projectimg:"assets/projects/big-projects/audio-transcribe.png",
+        projectlink:"https://github.com/KISHOREkevin/audio-transcriber"
+    }
+    ,{
+        id:uuidv4(),
         projectname:"Swapdeal Application",
         projectimg:"assets/projects/big-projects/swapdealproj.png",
         projectlink:"https://github.com/KISHOREkevin/swapdeal-application"
