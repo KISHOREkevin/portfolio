@@ -9,7 +9,13 @@ const credits = [
         id:uuidv4(),
         creditname:"Fullstack Development (Simplilearn)",
         creditimg:"assets/credits/fullstackskillup.png"
+    }, 
+    {
+        id:uuidv4(),
+        creditname:"Linux Servers",
+        creditimg:"assets/credits/linuxndg.png"
     },
+
     {
         id:uuidv4(),
         creditname:"Git and Github",
@@ -19,11 +25,6 @@ const credits = [
         id:uuidv4(),
         creditname:"Docker and Docker composer",
         creditimg:"assets/credits/docker.png"
-    },
-    {
-        id:uuidv4(),
-        creditname:"Linux Servers",
-        creditimg:"assets/credits/linuxndg.png"
     },
     {
         id:uuidv4(),

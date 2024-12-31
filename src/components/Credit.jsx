@@ -4,14 +4,14 @@ import { badges, credits } from '../utils/credit.js'
 const Credit = () => {
   return (
     <div id="credit" className='h-[100vh]  flex items-center justify-center overflow-hidden border-solid border-2 border-white rounded-md'>
-      <div className='bg-ctp-surface0 p-2 rounded-md  lg:mt-[50px] m-2 lg:mx-10 overflow-scroll lg:h-[530px] h-[700px]'>
+      <div className='bg-ctp-surface0 p-2 rounded-md  lg:mt-[50px] m-2 lg:mx-10 overflow-scroll lg:h-[530px] h-[700px] lg:w-full w-[85%]'>
         <div className='flex flex-wrap justify-center'>
         {credits.map((credit) => {
           return (
             
               <div key={credit.id}>
                 <div className='hover:translate-y-[-8px] transition-all relative flex justify-center items-center'>
-                  <img className='m-2 rounded-md'  width={400} src={credit.creditimg} alt={credit.creditname} />
+                  <img className='m-2 rounded-md'  width={380} src={credit.creditimg} alt={credit.creditname} />
                   <div className='opacity-80 absolute hover:opacity-100'>
                   <a href={credit.creditimg} target='_blank' className=' btn btn-primary '>{credit.creditname}</a>
                   </div>
