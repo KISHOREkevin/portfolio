@@ -21,7 +21,7 @@ const Intrests = () => {
                         <li>Learning new command line tools.</li>
                         <li>Configuring my operating system like window manager, bars,system controllers ...</li>
                         <li>Script writing like volumecontroller,backlight management ...</li>
-                        <li>Love to use terminal and cli tools.</li>
+                        <li>Love to use open source tools</li>
                         <li>Trying out new framework in free time.</li>
                         <li>I use Arch linux , BTW</li>
                     </ul>
