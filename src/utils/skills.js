@@ -39,6 +39,11 @@ const frontendTools = [
         id:uuidv4(),
         skillname:"CSS",
         skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    },
+    {
+      id:uuidv4(),
+      skillname:"Gtk",
+      skillimg:"/assets/skills/GTK_logo.svg"
     }
 ]
 

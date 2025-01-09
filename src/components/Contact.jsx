@@ -35,12 +35,12 @@ const Contact = () => {
                     <input type="submit" value="Send Mail" className='btn btn-primary mt-3' />
                 </form>
                 <div className='lg:text-5xl text-3xl text-center mt-5 space-x-5' >
-                <a href="https://github.com/KISHOREkevin" target='_blank'><i className="fa-brands fa-square-github"></i></a>
-                <a href="https://www.linkedin.com/in/kishore-kevin-a5a873290/" target='_blank'><i className="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/KISHOREkevin" target='_blank'><i class='bx bxl-github'></i></a>
+                <a href="https://www.linkedin.com/in/kishore-kevin-a5a873290/" target='_blank'><i class='bx bxl-linkedin-square'></i></a>
                 
-                <a href="https://youtube.com/@kishorekevin5372" target='_blank'><i className="fa-brands fa-youtube"></i></a>
-                <a href="https://mastodon.social/@kishorekevin3289" target='_blank'><i className="fa-brands fa-mastodon"></i></a>
-                <a href="https://www.instagram.com/kishorekevin3289/" target='_blank'><i className="fa-brands fa-square-instagram"></i></a>
+                <a href="https://youtube.com/@kishorekevin5372" target='_blank'><i class='bx bxl-youtube'></i></a>
+                <a href="https://mastodon.social/@kishorekevin3289" target='_blank'><i class='bx bxl-mastodon'></i></a>
+                <a href="https://www.instagram.com/kishorekevin3289/" target='_blank'><i class='bx bxl-instagram-alt'></i></a>
                   
                 <h2 className='lg:text-3xl text-[16px]'>Thanks for visiting <i className="fa-solid fa-heart"></i></h2>
                 </div>
