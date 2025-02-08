@@ -65,6 +65,13 @@ const bigProjects= [
 
 const smallProjects = [
     {
+      id:uuidv4(),
+      projectname:"Pomodoro Timer GTK app",
+      projectimg:"assets/projects/small-projects/pomodora.png",
+      projectlink:"https://github.com/KISHOREkevin/pomodoro-timer"
+
+    },
+    {
         id:uuidv4(),
         projectname:"Bored Application",
         projectimg:"assets/projects/small-projects/boredproject.png",
