@@ -1,6 +1,13 @@
 import {v4 as uuidv4} from "uuid";
 const bigProjects= [
     {
+      id:uuidv4(),
+      projectname:"Codex Arch Linux distribution",
+      projectimg:"assets/projects/big-projects/linuxdistro.png",
+      projectlink:"https://github.com/KISHOREkevin/.dotfiles"
+    
+    } 
+  ,{
         id:uuidv4(),
         projectname:"Audio Transcription with AI",
         projectimg:"assets/projects/big-projects/audio-transcribe.png",
