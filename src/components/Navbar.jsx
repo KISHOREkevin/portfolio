@@ -9,7 +9,7 @@ const Navbar = () => {
                 
                 <div className="drawer-content">
                 
-                    <label htmlFor="my-drawer" className="  btn bg-ctp-yellow text-ctp-surface0 drawer-button"><i className="fa-solid fa-bars"></i></label>
+                    <label htmlFor="my-drawer" className="  btn bg-ctp-yellow text-ctp-surface0 drawer-button"><i class='bx bx-menu'></i></label>
                 </div>
                 <div className="drawer-side">
                
