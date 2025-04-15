@@ -12,9 +12,9 @@ const Credit = () => {
               <div key={credit.id}>
                 <div className='hover:translate-y-[-8px] transition-all relative flex justify-center items-center'>
                   <img className='m-2 rounded-md'  width={380} src={credit.creditimg} alt={credit.creditname} />
-                  <div className='opacity-80 absolute hover:opacity-100'>
-                  <a href={credit.creditimg} target='_blank' className=' btn btn-primary '>{credit.creditname}</a>
-                  </div>
+            {credit.creditlink &&  <div className='opacity-80 absolute hover:opacity-100'>
+                  <a href={credit.creditlink} target='_blank' className=' btn btn-primary '>{credit.creditname}</a>
+                  </div>}
                   
                 </div>
 
@@ -30,7 +30,7 @@ const Credit = () => {
           <div className='flex flex-wrap justify-center'>
         {badges.map((credit) => {
           return (
-            
+           <a href={credit.creditlink} target='_blank'> 
               <div key={credit.id}>
                 <div className='hover:translate-y-[-8px] transition-all relative flex justify-center items-center'>
                   <img className='m-2 rounded-md'  width={200} src={credit.creditimg} alt={credit.creditname} />
@@ -40,6 +40,7 @@ const Credit = () => {
 
 
               </div>
+            </a>
           
           )
         })}
