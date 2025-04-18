@@ -16,11 +16,13 @@ const credits = [
     id: uuidv4(),
     creditname: "Fullstack Development (Simplilearn)",
     creditimg: "assets/credits/fullstackskillup.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_fullstack-development-certification-activity-7106961152227565570--Vme"
   },
   {
     id: uuidv4(),
-    creditname: "Linux Servers",
+    creditname: "Linux Servers (Cisco Netacad)",
     creditimg: "assets/credits/linuxndg.png",
+    creditlink:"assets/credits/linux-cisco.pdf"
   },
 
   {
