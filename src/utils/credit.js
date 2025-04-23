@@ -54,6 +54,12 @@ const credits = [
     creditname: "Tailwind CSS",
     creditimg: "assets/credits/tailwindcss.png",
     creditlink: "https://www.udemy.com/certificate/UC-957e1936-753f-488a-a9bd-57dc5bdd66f6/"
+  },
+  {
+    id:uuidv4(),
+    creditname:"Networking Basics",
+    creditimg:"assets/credits/network-basics-cert.png",
+    creditlink:"https://www.credly.com/users/kishore-kevin"
   }
 ]
 
@@ -99,6 +105,12 @@ const badges = [
     creditname: "Serverless Functions",
     creditimg: "assets/credits/aws-educate-getting-started-with-serverless.png",
     creditlink: "https://www.credly.com/users/kishore-kevin"
+  },
+  {
+    id:uuidv4(),
+    creditname:"Networking Basics",
+    creditimg:"assets/credits/networking-basics.png",
+    creditlink:"https://www.credly.com/users/kishore-kevin"
   }
 ]
 
