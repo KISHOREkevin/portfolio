@@ -44,6 +44,11 @@ const frontendTools = [
       id:uuidv4(),
       skillname:"Gtk",
       skillimg:"/assets/skills/GTK_logo.svg"
+    },
+    {
+      id:uuidv4(),
+      skillname:"Qt",
+      skillimg:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
     }
 ]
 
