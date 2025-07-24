@@ -60,7 +60,67 @@ const credits = [
     creditname:"Networking Basics",
     creditimg:"assets/credits/network-basics-cert.png",
     creditlink:"https://www.credly.com/users/kishore-kevin"
-  }
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Cloud First Steps)",
+    creditimg:"assets/credits/aws-simulearn-1.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_aws-cloudcomputing-ec2-activity-7350409429856530434-t4HF"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Cloud Computing Essentials)",
+    creditimg:"assets/credits/aws-simulearn-2.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertified-cloudcomputing-awstraining-activity-7349738635056828416-FxPX"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Computing Solutions)",
+    creditimg:"assets/credits/aws-simulearn-3.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertified-cloudcomputing-ec2-activity-7350730766043017216-syTc"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (First NoSQL Database)",
+    creditimg:"assets/credits/aws-simulearn-4.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_aws-dynamodb-nosql-activity-7351122142656155648-Gp_a"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Networking Concepts)",
+    creditimg:"assets/credits/aws-simulearn-5.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertified-cloudcomputing-networking-activity-7351472095014416386-3EnI"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Cloud Economics)",
+    creditimg:"assets/credits/aws-simulearn-6.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertification-cloudcomputing-cloudeconomics-activity-7352305036871286784-s6NK"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (File Systems in the Cloud)",
+    creditimg:"assets/credits/aws-simulearn-7.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awstraining-cloudcomputing-efs-activity-7352689707077521409-Cksb"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Databases in Practice)",
+    creditimg:"assets/credits/aws-simulearn-8.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_aws-cloudcomputing-amazonrds-activity-7353027606964813824-Vkc6"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Core Security Concepts)",
+    creditimg:"assets/credits/aws-simulearn-9.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertified-cloudsecurity-iam-activity-7353371347315544068-RXIm"
+  },
+  {
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Auto-Healing and Scaling Applications)",
+    creditimg:"assets/credits/aws-simulearn-10.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_aws-cloudcomputing-autoscaling-activity-7354142551282499604-DxbR"
+  },
 ]
 
 const badges = [
