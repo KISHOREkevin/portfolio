@@ -121,6 +121,12 @@ const credits = [
     creditimg:"assets/credits/aws-simulearn-10.png",
     creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_aws-cloudcomputing-autoscaling-activity-7354142551282499604-DxbR"
   },
+{
+    id:uuidv4(),
+    creditname:"AWS Simulearn (Highly Available Web Applications)",
+    creditimg:"assets/credits/aws-simulearn-11.png",
+    creditlink:"https://www.linkedin.com/posts/kishore-kevin-a5a873290_awscertified-cloudcomputing-highavailability-activity-7355268610853933057-A6Ak"
+  },
 ]
 
 const badges = [
